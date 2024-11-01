@@ -1,4 +1,0 @@
-Bio-Graphics-2.37
-GD::SVG
-Math::Round
-

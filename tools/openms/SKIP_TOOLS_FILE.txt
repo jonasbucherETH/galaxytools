@@ -1,8 +1,0 @@
-OMSSAAdapter
-MyriMatchAdapter
-SeedListGenerator
-SpecLibSearcher
-MapAlignerIdentification
-MapAlignerPoseClustering
-MapAlignerSpectrum
-MapAlignerRTTransformer

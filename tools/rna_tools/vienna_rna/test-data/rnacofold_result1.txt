@@ -1,3 +1,0 @@
->Anolis_carolinensis_chrUn_GL343590.trna2-A
-UGGGAAUUAGCUCAAAUGGUAGAGCGCUCGCUUAGCAUGUGAGAGGUAGUGGGAUCGAUGCCCACAUUCUCCA&UGGGAAUUAGCUCAAAUGGUAGAGCGCUCGCUUAGCAUGUGAGAGGUAGUGGGAUCGAUGCCCACAUUCUCCA
-.((((((..((((........)))).(((((.......))))).....(((((((((((.(((((((((((..&.))))))..((((........)))).(((((.......))))).....))))))))))).))))))))))).. (-55.90)
