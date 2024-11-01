@@ -55,3 +55,11 @@ tool_test_output.json
 .idea/
 .venv/
 .vscode/
+
+# GitHub-specific directory (e.g., workflows and actions)
+.github/
+.git/
+
+# Custom files to ignore
+.tt_biocontainer_skip
+.tt_skip
